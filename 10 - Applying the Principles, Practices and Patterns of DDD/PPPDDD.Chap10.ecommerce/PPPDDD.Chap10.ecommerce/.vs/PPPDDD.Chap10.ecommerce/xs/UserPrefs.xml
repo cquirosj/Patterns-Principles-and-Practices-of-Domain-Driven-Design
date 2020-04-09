@@ -1,0 +1,35 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workbench ActiveDocument="ExplicitLogic/Model/OverseasSellingPolicy.cs">
+    <Files>
+      <File FileName="ImplicitLogic/Model/basket.cs" Line="24" Column="8" />
+      <File FileName="ExplicitLogic/Model/basket.cs" Line="1" Column="1" />
+      <File FileName="ImplicitLogic/Model/BasketItemFactory.cs" Line="1" Column="1" />
+      <File FileName="ExplicitLogic/Model/OverSeasSellingPolicyException.cs" Line="1" Column="1" />
+      <File FileName="ExplicitLogic/Model/OverseasSellingPolicy.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PPPDDD.Chap10.ecommerce" expanded="True">
+            <Node name="PPPDDD.Chap10.ecommerce" expanded="True">
+              <Node name="ExplicitLogic" expanded="True">
+                <Node name="Model" expanded="True">
+                  <Node name="OverseasSellingPolicy.cs" selected="True" />
+                </Node>
+              </Node>
+              <Node name="ImplicitLogic" expanded="True">
+                <Node name="Model" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
